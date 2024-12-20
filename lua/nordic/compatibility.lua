@@ -8,13 +8,13 @@ local function compatability(options)
     local level = vim.log.levels.WARN
     -- Message Options
     local message_options = {
-        title = 'Warning from nordic.nvim',
+        title = 'Warning from dark-nordic',
     }
 
     -- transparent_bg
     if options.transparent_bg ~= nil then
         vim.notify_once(
-            'Nordic.nvim: config.transparent_bg is deprecated, use config.transparent instead',
+            'dark-nordic: config.transparent_bg is deprecated, use config.transparent instead',
             level,
             message_options
         )
@@ -28,7 +28,7 @@ local function compatability(options)
     -- override
     if options.override ~= nil then
         vim.notify_once(
-            'Nordic.nvim: config.override is deprecated, use config.on_highlight instead',
+            'dark-nordic: config.override is deprecated, use config.on_highlight instead',
             level,
             message_options
         )
