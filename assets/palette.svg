@@ -28,7 +28,7 @@
 <rect x="672" y="0" width="224" height="158" use="bg" fill="oklch(0.2803675711158236 0.019830248896015763 264)" fill-opacity="1" stroke="oklch(0.2803675711158236 0.019830248896015763 264)" />
 <rect x="672" y="158" width="224" height="10" use="bar" fill="oklch(0.25233081400424123 0.019830248896015763 264)" fill-opacity="1" stroke="oklch(0.25233081400424123 0.019830248896015763 264)" />
 <text x="783.5" y="73.5" font-size="34" use="name" fill="oklch(0.5523308140042412 0.019830248896015763 264)" fill-opacity="1" font-family="Nunito" text-anchor="middle" dominant-baseline="central">gray0</text>
-<text x="783.5" y="118.5" font-size="24" use="hex" fill="oklch(0.5523308140042412 0.019830248896015763 264)" fill-opacity="1" font-family="Nunito" text-anchor="middle" dominant-baseline="central">282828</text>
+<text x="783.5" y="118.5" font-size="24" use="hex" fill="oklch(0.5523308140042412 0.019830248896015763 264)" fill-opacity="1" font-family="Nunito" text-anchor="middle" dominant-baseline="central">000000</text>
 <rect x="896" y="0" width="224" height="158" use="bg" fill="oklch(0.32437434251336006 0.022944571907900984 264)" fill-opacity="1" stroke="oklch(0.32437434251336006 0.022944571907900984 264)" />
 <rect x="896" y="158" width="224" height="10" use="bar" fill="oklch(0.29193690826202406 0.022944571907900984 264)" fill-opacity="1" stroke="oklch(0.29193690826202406 0.022944571907900984 264)" />
 <text x="1007.5" y="73.5" font-size="34" use="name" fill="oklch(0.591936908262024 0.022944571907900984 264)" fill-opacity="1" font-family="Nunito" text-anchor="middle" dominant-baseline="central">gray1</text>
