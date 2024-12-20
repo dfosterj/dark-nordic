@@ -1,4 +1,6 @@
 # Nordic Colorscheme for Wezterm.
+# Based on https://github.com/AlexvZyl/nordic.nvim
+# Author: @kuntau
 
 [colors]
 foreground    = "#D8DEE9"
