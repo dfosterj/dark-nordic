@@ -4,10 +4,10 @@
 
 [colors]
 foreground    = "#D8DEE9"
-background    = "#242933"
+background    = "#282828"
 cursor_bg     = "#D8DEE9"
 cursor_border = "#D8DEE9"
-cursor_fg     = "#242933"
+cursor_fg     = "#282828"
 selection_fg  = "#D8DEE9"
 selection_bg  = "#2E3440"
 
